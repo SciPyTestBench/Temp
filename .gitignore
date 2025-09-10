@@ -1,0 +1,17 @@
+
+# Eclipse-specific files
+.settings/
+.project
+.classpath
+
+# Build output directories
+bin/
+target/
+build/
+
+# Maven
+.mvn/
+!**/src/main/**
+!**/src/test/**
+pom.xml.tag
+pom.xml.re
